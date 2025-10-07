@@ -1,0 +1,9 @@
+id,name,type,cuisine,cal,protein_g,fat_g,carbs_g,ingredients,cost_estimate,prep_time_min
+1,Idli,breakfast,SouthIndian,150,4,1,30,"rice|urad dal",20,20
+2,Sambar,lunch,SouthIndian,200,6,5,30,"toor dal|vegetables|tamarind",30,25
+3,Chapati,breakfast,NorthIndian,100,3,1,20,"wheat flour",5,10
+4,Paneer Curry,dinner,NorthIndian,350,18,25,8,"paneer|tomato|spices",60,30
+5,Rice+Dal,lunch,NorthIndian,500,12,10,80,"rice|dal|vegetables",40,30
+6,Oats,breakfast,Continental,250,8,5,45,"oats|milk|honey",25,5
+7,Chole,lunch,NorthIndian,450,15,18,50,"chickpeas|tomato|spices",50,35
+8,Vegetable Stir Fry,dinner,Chinese,300,6,10,40,"mixed vegetables|soy sauce",35,20
